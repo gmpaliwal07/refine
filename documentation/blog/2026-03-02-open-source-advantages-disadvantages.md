@@ -143,7 +143,7 @@ PostgreSQL is the default choice for serious relational database workloads today
 
 ### Admin Panels and Internal Tools: Refine
 
-[Refine](https://refine.dev/) is an open source React meta-framework for building admin panels, dashboards, and internal tools. It handles the structural concerns — routing, data fetching, authentication, access control, CRUD logic — while leaving you free to use whatever UI library and backend you prefer. It integrates with Ant Design, Material UI, and others, and works with REST APIs, GraphQL, Supabase, and more.
+[Refine](https://refine.dev/) is an open source React meta-framework for building admin panels, dashboards, and [internal tools](/blog/what-is-internal-tools/). It handles the structural concerns — routing, data fetching, authentication, access control, [CRUD logic](/blog/crud-apps/) — while leaving you free to use whatever UI library and backend you prefer. It integrates with Ant Design, Material UI, and others, and works with REST APIs, GraphQL, [Supabase](/blog/supabase-database-setup/), and more.
 
 Because it's open source under the MIT license, you can use it freely in commercial products without licensing fees or vendor dependency.
 
