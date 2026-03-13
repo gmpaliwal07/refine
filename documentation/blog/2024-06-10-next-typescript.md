@@ -5,7 +5,7 @@ slug: next-js-with-typescript
 authors: michael
 category: "Tutorials"
 tags: [nextjs, typescript]
-image: https://refine.ams3.cdn.digitaloceanspaces.com/blog/2022-09-12-next-typescript/social-3.png
+image: https://refine.ams3.cdn.digitaloceanspaces.com/blog-yearly/2022/2022-09-12-next-typescript/social-3.png
 hide_table_of_contents: false
 last_update: 2024-06-12
 ---
@@ -75,7 +75,7 @@ Installing devDependencies (yarn):
 
 When the installation is complete, open `tsconfig.json` and you'll see it populated with values like below:
 
- <img src="https://refine.ams3.cdn.digitaloceanspaces.com/blog/2022-09-12-next-typescript/tsconfig.png" alt="tsconfig.json settings" />
+ <img src="https://refine.ams3.cdn.digitaloceanspaces.com/blog-yearly/2022/2022-09-12-next-typescript/tsconfig.png" alt="tsconfig.json settings" />
 
 <br/>
 

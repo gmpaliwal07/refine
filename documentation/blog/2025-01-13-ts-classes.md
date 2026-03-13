@@ -5,7 +5,7 @@ slug: typescript-classes
 authors: abdullah_numan
 category: "Tutorials"
 tags: [typescript]
-image: https://refine.ams3.cdn.digitaloceanspaces.com/blog/2023-11-07-ts-classes/social-2.png
+image: https://refine.ams3.cdn.digitaloceanspaces.com/blog-yearly/2023/2023-11-07-ts-classes/social-2.png
 hide_table_of_contents: false
 last_update: 2025-01-13
 ---

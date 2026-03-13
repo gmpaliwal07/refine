@@ -50,6 +50,7 @@ export const BlogPostPageView = ({ children }) => {
     : undefined;
   const shareUrl = `${siteUrl}${permalink}`;
   const breadcrumbItems = getBreadcrumbItems({ permalink, title, category });
+  const isUpdated = formattedDate !== formattedLastUpdateDate;
 
   return (
     <article
@@ -104,36 +105,38 @@ export const BlogPostPageView = ({ children }) => {
         className={clsx("mt-8", "not-prose", "blog-lg:mt-12")}
       />
 
-      <div
-        className={clsx(
-          "mt-4",
-          "blog-lg:mt-6",
-          "flex",
-          "items-center",
-          "gap-2",
-          "text-xs",
-          "tracking-[-0.006em]",
-          "p-2",
-          "rounded-lg",
-          "mx-0",
-          "blog-lg:mx-4",
-          "bg-zinc-100",
-          "dark:bg-zinc-800",
-          "text-zinc-500",
-          "dark:text-zinc-400",
-        )}
-      >
-        <CalendarArrowUpIcon />
-        <div>
-          Last updated at{" "}
-          <Date
-            date={lastUpdate}
-            formattedDate={formattedLastUpdateDate.toLowerCase()}
-            itemProp="dateModified"
-            className="capitalize"
-          />
+      {isUpdated && (
+        <div
+          className={clsx(
+            "mt-4",
+            "blog-lg:mt-6",
+            "flex",
+            "items-center",
+            "gap-2",
+            "text-xs",
+            "tracking-[-0.006em]",
+            "p-2",
+            "rounded-lg",
+            "mx-0",
+            "blog-lg:mx-4",
+            "bg-zinc-100",
+            "dark:bg-zinc-800",
+            "text-zinc-500",
+            "dark:text-zinc-400",
+          )}
+        >
+          <CalendarArrowUpIcon />
+          <div>
+            Last updated at{" "}
+            <Date
+              date={lastUpdate}
+              formattedDate={formattedLastUpdateDate.toLowerCase()}
+              itemProp="dateModified"
+              className="capitalize"
+            />
+          </div>
         </div>
-      </div>
+      )}
 
       <div className={clsx("mt-8", "blog-lg:mt-10")}>
         <PostBody>{children}</PostBody>

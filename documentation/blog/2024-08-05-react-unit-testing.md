@@ -5,7 +5,7 @@ slug: react-unit-testing
 authors: chidume_nnamdi
 category: "Engineering"
 tags: [react, dev-tools]
-image: https://refine.ams3.cdn.digitaloceanspaces.com/blog/2023-05-26-react-unit-testing/social-2.png
+image: https://refine.ams3.cdn.digitaloceanspaces.com/blog-yearly/2023/2023-05-26-react-unit-testing/social-2.png
 hide_table_of_contents: false
 last_update: 2024-08-05
 ---

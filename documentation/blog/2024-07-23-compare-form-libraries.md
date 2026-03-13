@@ -5,7 +5,7 @@ slug: react-hook-form-vs-formik
 authors: joseph_mawa
 category: "Alternatives"
 tags: [react, comparison]
-image: https://refine.ams3.cdn.digitaloceanspaces.com/blog/2023-01-30-compare-form-libraries/social-2.png
+image: https://refine.ams3.cdn.digitaloceanspaces.com/blog-yearly/2023/2023-01-30-compare-form-libraries/social-2.png
 hide_table_of_contents: false
 last_update: 2024-07-24
 ---

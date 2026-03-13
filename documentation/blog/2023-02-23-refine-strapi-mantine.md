@@ -93,7 +93,7 @@ npm run dev
 
 After the app has started, you should see the following page:
 
-<img className="border border-gray-200 rounded" src="https://refine.ams3.cdn.digitaloceanspaces.com/blog/2023-02-23-refine-strapi-mantine/welcome.jpeg"  alt="Refine Mantine starter screen" />
+<img className="border border-gray-200 rounded" src="https://refine.ams3.cdn.digitaloceanspaces.com/blog-yearly/2023/2023-02-23-refine-strapi-mantine/welcome.jpeg"  alt="Refine Mantine starter screen" />
 
 If your landing page is similar to the screenshot above, you have successfully created a Refine project. We will build a React admin panel by modifying the project you have just created.
 
@@ -468,7 +468,7 @@ For this demonstration, use the credentials below to log into an existing accoun
 > Email: demo@refine.dev
 > Password: demodemo
 
-<img className="border border-gray-200 rounded" src="https://refine.ams3.cdn.digitaloceanspaces.com/blog/2023-02-23-refine-strapi-mantine/login-page.jpeg"  alt="Login page for Strapi demo" className="border border-gray-200 rounded" />
+<img className="border border-gray-200 rounded" src="https://refine.ams3.cdn.digitaloceanspaces.com/blog-yearly/2023/2023-02-23-refine-strapi-mantine/login-page.jpeg"  alt="Login page for Strapi demo" className="border border-gray-200 rounded" />
 
 When you log into your Refine application, you should have a table similar to the image below. Though still incomplete, it is a simple React admin panel.
 

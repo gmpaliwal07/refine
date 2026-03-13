@@ -5,7 +5,7 @@ slug: terraform-aws
 authors: shingai_zivuku
 category: "Ecosystem / Integrations"
 tags: [dev-tools, backend]
-image: https://refine.ams3.cdn.digitaloceanspaces.com/blog/2023-11-28-terraform-aws/social.png
+image: https://refine.ams3.cdn.digitaloceanspaces.com/blog-yearly/2023/2023-11-28-terraform-aws/social.png
 hide_table_of_contents: false
 last_update: 2024-09-12
 ---

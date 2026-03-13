@@ -5,7 +5,7 @@ slug: react-server-components
 authors: peter_osah
 category: "Engineering"
 tags: [react, nextjs]
-image: https://refine.ams3.cdn.digitaloceanspaces.com/blog/2023-07-09-react-server-components/social-3.png
+image: https://refine.ams3.cdn.digitaloceanspaces.com/blog-yearly/2023/2023-07-09-react-server-components/social-3.png
 hide_table_of_contents: false
 last_update: 2024-10-07
 ---

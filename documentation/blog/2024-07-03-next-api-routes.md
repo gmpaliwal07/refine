@@ -5,7 +5,7 @@ slug: next-js-api-routes
 authors: michael
 category: "Tutorials"
 tags: [nextjs, backend]
-image: https://refine.ams3.cdn.digitaloceanspaces.com/blog/2022-10-05-next-api-routes/social-2.png
+image: https://refine.ams3.cdn.digitaloceanspaces.com/blog-yearly/2022/2022-10-05-next-api-routes/social-2.png
 hide_table_of_contents: false
 last_update: 2024-07-03
 ---
@@ -49,7 +49,7 @@ export default function handler(req, res) {
 Navigating to `localhost:3000/api/hello` in the browser or making a `GET` request to it returns the following JSON response:
 
 <div class="img-container" align-items="center" >
-  <img   src="https://refine.ams3.cdn.digitaloceanspaces.com/blog/2022-10-05-next-api-routes/response.png"  alt="API response in browser" />
+  <img   src="https://refine.ams3.cdn.digitaloceanspaces.com/blog-yearly/2022/2022-10-05-next-api-routes/response.png"  alt="API response in browser" />
 </div>
 
 <br/>
@@ -191,7 +191,7 @@ Now if you navigate to `http://localhost:3000/api/trivia/34` or any other random
 Here's a GIF showing an example:
 
 <div class="img-container" align-items="center" >
-   <img   src="https://refine.ams3.cdn.digitaloceanspaces.com/blog/2022-10-05-next-api-routes/dynamic-routes.avif"  alt="dynamic API routes" />
+   <img   src="https://refine.ams3.cdn.digitaloceanspaces.com/blog-yearly/2022/2022-10-05-next-api-routes/dynamic-routes.avif"  alt="dynamic API routes" />
 </div>
 
 <br/>

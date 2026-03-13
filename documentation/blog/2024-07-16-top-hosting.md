@@ -5,7 +5,7 @@ slug: 5-top-free-react-hosting-platforms
 authors: joseph_mawa
 category: "Alternatives"
 tags: [react, comparison]
-image: https://refine.ams3.cdn.digitaloceanspaces.com/blog/2022-11-23-top-hosting/social.png
+image: https://refine.ams3.cdn.digitaloceanspaces.com/blog-yearly/2022/2022-11-23-top-hosting/social.png
 hide_table_of_contents: false
 last_update: 2024-07-16
 ---
@@ -367,7 +367,7 @@ You will choose whether to deploy from a branch or GitHub actions. The default o
 
 After the deployment process completes, refresh the **Setting** page to obtain a link to your deployed project.
 
-<img src="https://refine.ams3.cdn.digitaloceanspaces.com/blog/2022-11-23-top-hosting/github-pages-setting.png"  alt="GitHub Pages settings screen" />
+<img src="https://refine.ams3.cdn.digitaloceanspaces.com/blog-yearly/2022/2022-11-23-top-hosting/github-pages-setting.png"  alt="GitHub Pages settings screen" />
 
 <br />
 

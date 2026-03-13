@@ -41,7 +41,10 @@ function BlogCategoryPostsPageMetadata(props) {
         <title>{title}</title>
         <meta property="og:title" content={title} />
       </Head>
-      <PageMetadata description={description} />
+      <PageMetadata
+        description={description}
+        image="https://refine.dev/img/og-blog.png"
+      />
       <SearchMetadata tag="blog_category_posts" />
     </>
   );

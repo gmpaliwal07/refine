@@ -5,7 +5,7 @@ slug: react-usereducer
 authors: abdullah_numan
 category: "Tutorials"
 tags: [react]
-image: https://refine.ams3.cdn.digitaloceanspaces.com/blog/2024-05-28-react-usereducer/social.png
+image: https://refine.ams3.cdn.digitaloceanspaces.com/blog-yearly/2024/2024-05-28-react-usereducer/social.png
 hide_table_of_contents: false
 last_update: 2024-11-11
 ---

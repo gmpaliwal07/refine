@@ -5,7 +5,7 @@ slug: javascript-try-catch-finally
 authors: abdullah_numan
 category: "Tutorials"
 tags: [javascript]
-image: https://refine.ams3.cdn.digitaloceanspaces.com/blog/2022-11-22-js-try-catch/social.png
+image: https://refine.ams3.cdn.digitaloceanspaces.com/blog-yearly/2022/2022-11-22-js-try-catch/social.png
 hide_table_of_contents: false
 last_update: 2024-10-31
 ---

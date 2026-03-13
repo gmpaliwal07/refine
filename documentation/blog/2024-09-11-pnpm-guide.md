@@ -5,7 +5,7 @@ slug: how-to-use-pnpm
 authors: joseph_mawa
 category: "Tutorials"
 tags: [dev-tools]
-image: https://refine.ams3.cdn.digitaloceanspaces.com/blog/2023-11-27-pnpm-guide/social.webp
+image: https://refine.ams3.cdn.digitaloceanspaces.com/blog-yearly/2023/2023-11-27-pnpm-guide/social.webp
 hide_table_of_contents: false
 last_update: 2024-09-12
 ---

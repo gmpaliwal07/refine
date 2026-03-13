@@ -5,7 +5,7 @@ slug: react-markdown
 authors: david_omotayo
 category: "Ecosystem / Integrations"
 tags: [react]
-image: https://refine.ams3.cdn.digitaloceanspaces.com/blog/2023-08-24-react-markdown/social-2.png
+image: https://refine.ams3.cdn.digitaloceanspaces.com/blog-yearly/2023/2023-08-24-react-markdown/social-2.png
 hide_table_of_contents: false
 last_update: 2024-08-16
 ---
@@ -58,7 +58,7 @@ Once you have executed the commands, the development server will automatically l
 Upon accessing the URL, the application will be displayed, and you should see a similar screen to the image depicted below.
 
  <div className="centered-image">
-   <img style={{alignSelf:"center"}}  src="https://refine.ams3.cdn.digitaloceanspaces.com/blog/2023-08-24-react-markdown/project-setup.png"  alt="docker exec" />
+   <img style={{alignSelf:"center"}}  src="https://refine.ams3.cdn.digitaloceanspaces.com/blog-yearly/2023/2023-08-24-react-markdown/project-setup.png"  alt="docker exec" />
 </div>
 
 <br/>
@@ -99,7 +99,7 @@ import MDEditor from "@uiw/react-md-editor";
 This will render a native `Textarea` element with support for markdown editing and a preview pane on the form.
 
  <div className="centered-image">
-   <img style={{alignSelf:"center"}}  src="https://refine.ams3.cdn.digitaloceanspaces.com/blog/2023-08-24-react-markdown/using-md-editor-min.avif"  alt="docker exec" />
+   <img style={{alignSelf:"center"}}  src="https://refine.ams3.cdn.digitaloceanspaces.com/blog-yearly/2023/2023-08-24-react-markdown/using-md-editor-min.avif"  alt="docker exec" />
 </div>
 
 <br/>
@@ -154,7 +154,7 @@ When the `commands` property is provided, it automatically replaces the default 
 Every command on the toolbar will be removed.
 
  <div className="centered-image">
-   <img style={{alignSelf:"center"}}  src="https://refine.ams3.cdn.digitaloceanspaces.com/blog/2023-08-24-react-markdown/command-prop.png"  alt="docker exec" />
+   <img style={{alignSelf:"center"}}  src="https://refine.ams3.cdn.digitaloceanspaces.com/blog-yearly/2023/2023-08-24-react-markdown/command-prop.png"  alt="docker exec" />
 </div>
 
 <br/>
@@ -233,7 +233,7 @@ Then, we pass it to the `commands` array on the `MDEditor` component:
 ```
 
  <div className="centered-image">
-   <img style={{alignSelf:"center"}}  src="https://refine.ams3.cdn.digitaloceanspaces.com/blog/2023-08-24-react-markdown/common-prop2.avif"  alt="docker exec" />
+   <img style={{alignSelf:"center"}}  src="https://refine.ams3.cdn.digitaloceanspaces.com/blog-yearly/2023/2023-08-24-react-markdown/common-prop2.avif"  alt="docker exec" />
 </div>
 
 <br/>
@@ -394,7 +394,7 @@ The code above is specifying how the `code` component should behave when it enco
 Now, if we input KaTeX expressions into the editor, they will be previewed as mathematical expressions.
 
  <div className="centered-image">
-   <img style={{alignSelf:"center"}}  src="https://refine.ams3.cdn.digitaloceanspaces.com/blog/2023-08-24-react-markdown/katex-preview.avif"  alt="docker exec" />
+   <img style={{alignSelf:"center"}}  src="https://refine.ams3.cdn.digitaloceanspaces.com/blog-yearly/2023/2023-08-24-react-markdown/katex-preview.avif"  alt="docker exec" />
 </div>
 
 <br/>
@@ -533,7 +533,7 @@ Now, if you try to parse malicious codes into the editor, the rehype-sanitize pl
 Before integrating rehype-sanitize:
 
  <div className="centered-image">
-   <img style={{alignSelf:"center"}}  src="https://refine.ams3.cdn.digitaloceanspaces.com/blog/2023-08-24-react-markdown/rehype-sanitize.avif"  alt="docker exec" />
+   <img style={{alignSelf:"center"}}  src="https://refine.ams3.cdn.digitaloceanspaces.com/blog-yearly/2023/2023-08-24-react-markdown/rehype-sanitize.avif"  alt="docker exec" />
 </div>
 
 <br/>
@@ -541,7 +541,7 @@ Before integrating rehype-sanitize:
 After integrating rehype-sanitize:
 
  <div className="centered-image">
-   <img style={{alignSelf:"center"}}  src="https://refine.ams3.cdn.digitaloceanspaces.com/blog/2023-08-24-react-markdown/rehype-sanitze-2.avif"  alt="docker exec" />
+   <img style={{alignSelf:"center"}}  src="https://refine.ams3.cdn.digitaloceanspaces.com/blog-yearly/2023/2023-08-24-react-markdown/rehype-sanitze-2.avif"  alt="docker exec" />
 </div>
 
 <br/>

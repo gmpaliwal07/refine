@@ -5,7 +5,7 @@ slug: react-js-ecosystem-in-2024
 authors: chidume_nnamdi
 category: "Engineering"
 tags: [react, tech-industry]
-image: https://refine.ams3.cdn.digitaloceanspaces.com/blog/2024-01-11-react-ecosystem-2024/social.png
+image: https://refine.ams3.cdn.digitaloceanspaces.com/blog-yearly/2024/2024-01-11-react-ecosystem-2024/social.png
 hide_table_of_contents: false
 last_update: 2025-10-01
 ---

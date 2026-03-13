@@ -5,7 +5,7 @@ slug: temporal-date-api
 authors: muhammed_arslan
 category: "Tutorials"
 tags: [javascript]
-image: https://refine.ams3.cdn.digitaloceanspaces.com/blog/2022-08-19-temporal-api/social-2.png
+image: https://refine.ams3.cdn.digitaloceanspaces.com/blog-yearly/2022/2022-08-19-temporal-api/social-2.png
 hide_table_of_contents: false
 last_update: 2024-06-24
 ---

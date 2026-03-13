@@ -5,7 +5,7 @@ slug: typescript-pick-utility-type
 authors: abdullah_numan
 category: "Tutorials"
 tags: [typescript]
-image: https://refine.ams3.cdn.digitaloceanspaces.com/blog/2022-09-30-typescript-pick/social-2.png
+image: https://refine.ams3.cdn.digitaloceanspaces.com/blog-yearly/2022/2022-09-30-typescript-pick/social-2.png
 hide_table_of_contents: false
 last_update: 2024-12-17
 ---
@@ -41,7 +41,7 @@ We'll build the examples in this series based on the following scenario that inv
 Let's say we have a bunch of user entities that differ in terms of how they interact with a blog. Basically, whether they are a `GuestUser`, a `Subscriber`, an `Editor` or an `Admin`, etc. The following ERD shows how their shapes may differ in the backend:
 
 <div class="img-container" align-items="center" >
-   <img   src="https://refine.ams3.cdn.digitaloceanspaces.com/blog/2022-09-30-typescript-pick/ts-pick-visualize.png"  alt="TypeScript Omit Type" />
+   <img   src="https://refine.ams3.cdn.digitaloceanspaces.com/blog-yearly/2022/2022-09-30-typescript-pick/ts-pick-visualize.png"  alt="TypeScript Omit Type" />
 
 </div>
 

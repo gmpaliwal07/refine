@@ -5,7 +5,7 @@ slug: how-react-fragments-is-works
 authors: clara_ekekenta
 category: "Tutorials"
 tags: [react]
-image: https://refine.ams3.cdn.digitaloceanspaces.com/blog/2022-10-02-react-fragments/social-2.png
+image: https://refine.ams3.cdn.digitaloceanspaces.com/blog-yearly/2022/2022-10-02-react-fragments/social-2.png
 hide_table_of_contents: false
 last_update: 2024-06-27
 ---

@@ -5,7 +5,7 @@ slug: meta-stylex
 authors: abdullah_numan
 category: "Ecosystem / Integrations"
 tags: [css, react]
-image: https://refine.ams3.cdn.digitaloceanspaces.com/blog/2023-12-13-stylex-post/social.png
+image: https://refine.ams3.cdn.digitaloceanspaces.com/blog-yearly/2023/2023-12-13-stylex-post/social.png
 hide_table_of_contents: false
 last_update: 2024-09-16
 ---
@@ -207,7 +207,7 @@ export default function Home() {
 As we can see, styling is a totally handled by Stylex. The page in browser now looks like this:
 
 <div className="centered-image">
-<img src="https://refine.ams3.cdn.digitaloceanspaces.com/blog/2023-12-13-stylex-post/1.png" alt="StyleX output preview" />
+<img src="https://refine.ams3.cdn.digitaloceanspaces.com/blog-yearly/2023/2023-12-13-stylex-post/1.png" alt="StyleX output preview" />
 </div>
 
 <br/>

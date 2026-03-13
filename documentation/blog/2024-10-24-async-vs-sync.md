@@ -5,7 +5,7 @@ slug: synchronous-vs-asynchronous
 authors: muhammad_khabbab
 category: "Alternatives"
 tags: [javascript]
-image: https://refine.ams3.cdn.digitaloceanspaces.com/blog/2024-02-16-async-vs-sync/social.png
+image: https://refine.ams3.cdn.digitaloceanspaces.com/blog-yearly/2024/2024-02-16-async-vs-sync/social.png
 hide_table_of_contents: false
 last_update: 2024-10-24
 ---
@@ -98,7 +98,7 @@ function fetchAndDisplayData(url) {
 In the above pseudocode, `asyncFetch(url)` is an asynchronous operation. The `displayData(response)` function will not be called until `asyncFetch(url)` has finished fetching the data. Meanwhile, other code can continue to run in the background which demonstrates the non-blocking nature of asynchronous programming.
 
  <div className="centered-image">
-<img src="https://refine.ams3.cdn.digitaloceanspaces.com/blog/2024-02-16-async-vs-sync/diagram.png" alt="Asynchronous vs synchronous programming" />
+<img src="https://refine.ams3.cdn.digitaloceanspaces.com/blog-yearly/2024/2024-02-16-async-vs-sync/diagram.png" alt="Asynchronous vs synchronous programming" />
 </div>
 
 _"www.medium.com/from-the-scratch/wtf-is-synchronous-and-asynchronous-1a75afd039df"_
