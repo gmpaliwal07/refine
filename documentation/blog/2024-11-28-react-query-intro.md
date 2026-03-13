@@ -7,6 +7,7 @@ category: "Ecosystem / Integrations"
 tags: [react]
 image: https://refine.ams3.cdn.digitaloceanspaces.com/blog-yearly/2023/2023-07-04-react-query-intro/social-2.png
 hide_table_of_contents: false
+last_update: 2025-09-19
 ---
 
 **This article was last updated on September 19, 2025 to include new details on React Query v5.**

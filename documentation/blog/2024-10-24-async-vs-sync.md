@@ -7,6 +7,7 @@ category: "Alternatives"
 tags: [javascript]
 image: https://refine.ams3.cdn.digitaloceanspaces.com/blog-yearly/2024/2024-02-16-async-vs-sync/social.png
 hide_table_of_contents: false
+last_update: 2024-10-24
 ---
 
 **This article was last updated on October 24, 2024, to include modern asynchronous patterns, error handling techniques, and practical examples using promises and async/await.**

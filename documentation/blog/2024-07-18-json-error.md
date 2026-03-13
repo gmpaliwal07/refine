@@ -7,6 +7,7 @@ category: "Tutorials"
 tags: [javascript, bugs]
 image: https://refine.ams3.cdn.digitaloceanspaces.com/blog-yearly/2022/2022-12-09-json-error/social-2.png
 hide_table_of_contents: false
+last_update: 2024-07-18
 ---
 
 **This article was last updated on July 18, 2024, to add sections for JSON Validation Tools and Best Practices for Working with JSON.**

@@ -7,6 +7,7 @@ category: "Tutorials"
 tags: [react]
 image: https://refine.ams3.cdn.digitaloceanspaces.com/blog-yearly/2022/2022-12-14-conditional-rendering/social-2.png
 hide_table_of_contents: false
+last_update: 2024-07-17
 ---
 
 **This article was last updated on July 17, 2024, to add sections for Common Pitfalls and Best Practices in Conditional Rendering and Testing Conditional Rendering in React Applications.**

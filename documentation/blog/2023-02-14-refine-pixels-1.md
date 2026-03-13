@@ -7,6 +7,7 @@ category: "How To Build"
 tags: [refine-week]
 image: https://refine.ams3.cdn.digitaloceanspaces.com/blog-yearly/2023/2023-02-04-refine-pixels-1/social.png
 hide_table_of_contents: false
+last_update: 2023-04-10
 ---
 
 <img src="https://refine.ams3.cdn.digitaloceanspaces.com/blog-yearly/2023/2023-02-04-refine-pixels-1/refine_supabase.png" alt="Refine and Supabase logos" />

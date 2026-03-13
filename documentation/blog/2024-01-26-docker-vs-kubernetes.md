@@ -7,6 +7,7 @@ category: "Alternatives"
 tags: [kubernetes, docker, comparison]
 image: https://refine.ams3.cdn.digitaloceanspaces.com/blog-yearly/2023/2023-05-25-docker-vs-kubernates/social.png
 hide_table_of_contents: false
+last_update: 2024-01-29
 ---
 
 **_This article was last updated on January 26, 2024 to add comparison table and more factors about Docker vs Kubernetes._**

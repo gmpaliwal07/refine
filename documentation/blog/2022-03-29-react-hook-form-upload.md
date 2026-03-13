@@ -7,6 +7,7 @@ category: "Ecosystem / Integrations"
 tags: [react]
 image: https://refine.ams3.cdn.digitaloceanspaces.com/blog-yearly/2022/2022-03-29-react-hook-form-upload/social.jpg
 hide_table_of_contents: false
+last_update: 2022-10-19
 ---
 
 <img src="https://refine.ams3.cdn.digitaloceanspaces.com/blog-yearly/2022/2022-03-29-react-hook-form-upload/overview.gif" alt="Refine upload example overview screen" />

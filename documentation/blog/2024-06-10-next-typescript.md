@@ -7,6 +7,7 @@ category: "Tutorials"
 tags: [nextjs, typescript]
 image: https://refine.ams3.cdn.digitaloceanspaces.com/blog-yearly/2022/2022-09-12-next-typescript/social-3.png
 hide_table_of_contents: false
+last_update: 2024-06-12
 ---
 
 **_This article was last updated on Jun 10, 2024 to add new section for tsconfig.json and add some tips on usage with Next.js_**

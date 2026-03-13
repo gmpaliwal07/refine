@@ -8,6 +8,7 @@ tags: []
 image: https://refine.ams3.cdn.digitaloceanspaces.com/blog-yearly/2023/2023-01-06-hackaton-january/social.png
 social_image: https://refine.ams3.cdn.digitaloceanspaces.com/blog-yearly/2023/2023-01-06-hackaton-january/social_prizes.png
 hide_table_of_contents: false
+last_update: 2023-01-27
 ---
 
 **[Refine](https://github.com/refinedev/refine)** is a React-based framework for the rapid ✨ development of CRUD web applications. It eliminates the repetitive tasks demanded by CRUD operations and provides industry standard solutions for critical parts like authentication, access control, routing, networking, state management, and i18n. Refine shines on data-intensive applications like admin panels, dashboards, internal tools and storefronts.

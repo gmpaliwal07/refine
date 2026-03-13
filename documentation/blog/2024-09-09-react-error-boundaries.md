@@ -7,6 +7,7 @@ category: "Engineering"
 tags: [react, bugs]
 image: https://refine.ams3.cdn.digitaloceanspaces.com/blog-yearly/2023/2023-11-09-react-error-bounderies/social-2.png
 hide_table_of_contents: false
+last_update: 2024-09-10
 ---
 
 **This article was last updated on September 09, 2024, to add sections on Advanced Error Logging, Best Practices and Handling Asynchronous Errors in React Error Boundaries.**

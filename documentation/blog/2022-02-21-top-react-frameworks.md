@@ -7,6 +7,7 @@ category: "Alternatives"
 tags: [react, comparison]
 image: https://refine.ams3.cdn.digitaloceanspaces.com/website/static/img/placeholder.png
 hide_table_of_contents: false
+last_update: 2025-03-24
 ---
 
 ## Best UI Frameworks for React.js

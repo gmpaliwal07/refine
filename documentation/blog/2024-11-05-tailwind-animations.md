@@ -7,6 +7,7 @@ category: "Ecosystem / Integrations"
 tags: [tailwind, css]
 image: https://refine.ams3.cdn.digitaloceanspaces.com/blog-yearly/2024/2024-03-25-tailwind-animations/social.png
 hide_table_of_contents: false
+last_update: 2024-11-05
 ---
 
 **This article was last updated on November 5, 2024 to include performance optimization tips and mobile-responsive techniques for improved animation handling in Tailwind CSS.**

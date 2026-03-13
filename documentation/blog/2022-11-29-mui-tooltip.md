@@ -7,6 +7,7 @@ category: "Ecosystem / Integrations"
 tags: [material-ui]
 image: https://refine.ams3.cdn.digitaloceanspaces.com/blog-yearly/2022/2022-11-29-mui-tooltip/social-2.png
 hide_table_of_contents: false
+last_update: 2025-01-09
 ---
 
 ## Introduction

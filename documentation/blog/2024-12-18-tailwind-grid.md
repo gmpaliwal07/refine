@@ -7,6 +7,7 @@ category: "Ecosystem / Integrations"
 tags: [tailwind, css]
 image: https://refine.ams3.cdn.digitaloceanspaces.com/blog-yearly/2022/2022-10-21-tailwind-grid/social-2.png
 hide_table_of_contents: false
+last_update: 2024-12-18
 ---
 
 ## Introduction

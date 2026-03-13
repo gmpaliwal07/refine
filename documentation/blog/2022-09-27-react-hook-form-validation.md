@@ -7,6 +7,7 @@ category: "Ecosystem / Integrations"
 tags: [react]
 image: https://refine.ams3.cdn.digitaloceanspaces.com/blog-yearly/2022/2022-09-27-react-hook-form-validation/social.png
 hide_table_of_contents: false
+last_update: 2024-11-26
 ---
 
 ## Introduction

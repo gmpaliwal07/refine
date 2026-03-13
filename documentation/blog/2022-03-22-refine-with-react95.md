@@ -7,6 +7,7 @@ category: "How To Build"
 tags: [react]
 image: https://refine.ams3.cdn.digitaloceanspaces.com/blog-yearly/2022/2022-03-22-refine-with-react95/social.jpg
 hide_table_of_contents: false
+last_update: 2023-02-10
 ---
 
 **Refine** allows you to include any UI in your project and take full advantage of all its features without worrying about compatibility. To create a project with a vintage `Windows95` style using [React95](https://react95.io/) UI components, we can use the **Refine** because it is **headless**.

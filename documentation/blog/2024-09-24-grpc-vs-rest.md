@@ -7,6 +7,7 @@ category: "Alternatives"
 tags: [backend, comparison]
 image: https://refine.ams3.cdn.digitaloceanspaces.com/blog-yearly/2023/2023-06-23-grpc-vs-rest/social2.png
 hide_table_of_contents: false
+last_update: 2024-09-26
 ---
 
 **_This article was last updated on September 24, 2024 to include migration strategies, security considerations, and real-world examples to provide a more comprehensive comparison between gRPC and REST._**

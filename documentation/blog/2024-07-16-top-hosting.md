@@ -7,6 +7,7 @@ category: "Alternatives"
 tags: [react, comparison]
 image: https://refine.ams3.cdn.digitaloceanspaces.com/blog-yearly/2022/2022-11-23-top-hosting/social.png
 hide_table_of_contents: false
+last_update: 2024-07-16
 ---
 
 **This article was last updated on July 16, 2024, to add sections for Database Hosting Options and Backup and Recovery.**

@@ -7,6 +7,7 @@ category: "Ecosystem / Integrations"
 tags: [nextjs, backend]
 image: https://refine.ams3.cdn.digitaloceanspaces.com/blog-yearly/2022/2022-08-18-auth-with-nextauth/social-2.png
 hide_table_of_contents: false
+last_update: 2024-06-24
 ---
 
 **This article was last updated on June 21, 2024, to include new sections on testing, security, error handling, and performance optimization for NextAuth.**

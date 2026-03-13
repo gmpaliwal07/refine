@@ -7,6 +7,7 @@ category: "Tutorials"
 tags: [react]
 image: https://refine.ams3.cdn.digitaloceanspaces.com/blog-yearly/2022/2022-10-26-react-useref/social2.png
 hide_table_of_contents: false
+last_update: 2024-10-16
 ---
 
 **This article was last updated on October 16, 2024 to add more use cases for the React useRef hook, address common misconceptions, explain performance optimizations, and provide a more detailed comparison between useRef and React ref.**

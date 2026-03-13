@@ -7,6 +7,7 @@ category: "Ecosystem / Integrations"
 tags: [react]
 image: https://refine.ams3.cdn.digitaloceanspaces.com/blog-yearly/2023/2023-10-31-react-table/social.png
 hide_table_of_contents: false
+last_update: 2024-09-06
 ---
 
 **This article was last updated on September 06, 2024, to add sections on Advanced Column Customization and Accessibility Features in React Table.**

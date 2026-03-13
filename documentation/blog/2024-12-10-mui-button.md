@@ -7,6 +7,7 @@ category: "Ecosystem / Integrations"
 tags: [material-ui, react]
 image: https://refine.ams3.cdn.digitaloceanspaces.com/blog-yearly/2022/2022-09-05-mui-button/social.png
 hide_table_of_contents: false
+last_update: 2024-12-10
 ---
 
 **This article was last updated on December 10, 2024, to include new sections on Accessibility, Button Animations, and Performance Optimization for Material UI Buttons.**

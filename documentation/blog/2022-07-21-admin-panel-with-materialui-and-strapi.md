@@ -8,6 +8,7 @@ tags: [material-ui, strapi, admin-panel]
 image: https://refine.ams3.cdn.digitaloceanspaces.com/blog-yearly/2022/2022-07-21-admin-panel-with-materialui-and-strapi/social.png
 featured_image: https://refine.ams3.cdn.digitaloceanspaces.com/blog-yearly/2022/2022-07-21-admin-panel-with-materialui-and-strapi/featured.png
 hide_table_of_contents: false
+last_update: 2023-04-19
 ---
 
 :::caution

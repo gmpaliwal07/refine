@@ -7,6 +7,7 @@ category: "Engineering"
 tags: [kubernetes, bugs]
 image: https://refine.ams3.cdn.digitaloceanspaces.com/blog-yearly/2023/2023-11-22-crash-loop-back/social.png
 hide_table_of_contents: false
+last_update: 2023-11-29
 ---
 
 ## Brief explanation of CrashLoopBackOff and its significance

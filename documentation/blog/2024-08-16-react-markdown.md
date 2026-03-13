@@ -7,6 +7,7 @@ category: "Ecosystem / Integrations"
 tags: [react]
 image: https://refine.ams3.cdn.digitaloceanspaces.com/blog-yearly/2023/2023-08-24-react-markdown/social-2.png
 hide_table_of_contents: false
+last_update: 2024-08-16
 ---
 
 **This article was last updated on August 16, 2024, to add sections on Advanced Markdown Customization and Performance Optimization.**

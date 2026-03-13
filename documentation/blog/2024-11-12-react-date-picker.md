@@ -7,6 +7,7 @@ category: "Ecosystem / Integrations"
 tags: [react]
 image: https://refine.ams3.cdn.digitaloceanspaces.com/blog-yearly/2023/2023-05-03-react-date-picker/social-2.png
 hide_table_of_contents: false
+last_update: 2024-11-13
 ---
 
 **This article was last updated on November 12, 2024, to add sections for Accessibility Considerations, Internationalization and Localization, Performance Optimization, and Testing Date Pickers.**

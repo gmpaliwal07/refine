@@ -7,6 +7,7 @@ category: "Tutorials"
 tags: [css]
 image: https://refine.ams3.cdn.digitaloceanspaces.com/blog-yearly/2024/2024-02-15-css-rounded-corners/social.png
 hide_table_of_contents: false
+last_update: 2024-10-23
 ---
 
 **This article was last updated on October 23, to include browser compatibility considerations, responsive design techniques, and advanced clip-path and masking techniques.**

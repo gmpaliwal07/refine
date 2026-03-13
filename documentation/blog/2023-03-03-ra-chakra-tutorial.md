@@ -7,6 +7,7 @@ category: "How To Build"
 tags: [react, admin-panel]
 image: https://refine.ams3.cdn.digitaloceanspaces.com/blog-yearly/2023/2023-03-03-ra-chakra-tutorial/Group%20818%20(1).png
 hide_table_of_contents: false
+last_update: 2025-08-28
 ---
 
 ## Introduction

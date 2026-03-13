@@ -7,6 +7,7 @@ category: "Tutorials"
 tags: [supabase, backend]
 image: https://refine.ams3.cdn.digitaloceanspaces.com/blog-yearly/2025/2025-11-17-supabase-tutorial/supabase-tutorial-big.png
 hide_table_of_contents: false
+last_update: 2026-02-02
 ---
 
 If you’ve ever wanted to create a backend quickly — with a real database, authentication, storage, and auto-generated APIs — **Supabase** is a practical place to start. It’s open source, runs on top of PostgreSQL, and helps you move from idea to data in minutues.

@@ -7,6 +7,7 @@ category: "Alternatives"
 tags: [dev-tools, comparison]
 image: https://refine.ams3.cdn.digitaloceanspaces.com/blog-yearly/2023/2023-07-14-zsh-and-bash/social-2.png
 hide_table_of_contents: false
+last_update: 2024-11-26
 ---
 
 **This article was last updated on November 26, 2024, to add clear definition.**

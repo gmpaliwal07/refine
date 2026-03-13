@@ -7,6 +7,7 @@ category: "Ecosystem / Integrations"
 tags: [material-ui, admin-panel]
 image: https://refine.ams3.cdn.digitaloceanspaces.com/blog-yearly/2022/2022-08-23-mui-usedatagrid/social.png
 hide_table_of_contents: false
+last_update: 2022-10-14
 ---
 
 ## Introduction

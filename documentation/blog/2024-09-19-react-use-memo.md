@@ -7,6 +7,7 @@ category: "Tutorials"
 tags: [react]
 image: https://refine.ams3.cdn.digitaloceanspaces.com/blog-yearly/2022/2022-09-16-react-use-memo/social2.png
 hide_table_of_contents: false
+last_update: 2024-09-19
 ---
 
 **This article was last updated on September 19, 2024, to add sections on the latest changes to the React useMemo API and provide more detailed explanations of how `useMemo()` works.**

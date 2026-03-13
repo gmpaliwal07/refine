@@ -7,6 +7,7 @@ category: "Ecosystem / Integrations"
 tags: [material-ui]
 image: https://refine.ams3.cdn.digitaloceanspaces.com/blog-yearly/2023/2023-05-09-material-ui-modal/social-2.png
 hide_table_of_contents: false
+last_update: 2024-12-30
 ---
 
 **This article was last updated on December 30, 2024, to include common mistakes to avoid when working with Material UI Modals, such as accessibility or performance optimizations. A Frequently Asked Questions section has also been added to address common concerns.**

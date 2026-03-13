@@ -7,6 +7,7 @@ category: "Ecosystem / Integrations"
 tags: [dev-tools]
 image: https://refine.ams3.cdn.digitaloceanspaces.com/blog-yearly/2022/2022-08-31-google-lighthouse/social-2.png
 hide_table_of_contents: false
+last_update: 2024-05-24
 ---
 
 **_This article was last updated on May 24, 2024 to update screenshots, add new sections on advanced configuration, lighthouse metrics and common issues on Google Lighthouse_**

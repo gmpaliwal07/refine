@@ -7,6 +7,7 @@ category: "Ecosystem / Integrations"
 tags: [material-ui]
 image: https://refine.ams3.cdn.digitaloceanspaces.com/blog-yearly/2022/2022-12-15-mui-checkbox/social-2.png
 hide_table_of_contents: false
+last_update: 2024-12-27
 ---
 
 **This article was last updated on December 25, 2024, to include advanced Material UI Checkbox customization techniques, improved form validation patterns, and accessibility best practices.**

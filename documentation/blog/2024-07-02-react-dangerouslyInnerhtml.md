@@ -7,6 +7,7 @@ category: "Tutorials"
 tags: [react]
 image: https://refine.ams3.cdn.digitaloceanspaces.com/blog-yearly/2022/2022-09-25-react-dangerouslyInnerhtml/social-2.png
 hide_table_of_contents: false
+last_update: 2024-07-03
 ---
 
 **This article was last updated on July 02, 2024, to add sections for XSS Attacks and Risks of Using innerHTML.**

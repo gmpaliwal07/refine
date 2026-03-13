@@ -7,6 +7,7 @@ category: "Ecosystem / Integrations"
 tags: [tailwind, css]
 image: https://refine.ams3.cdn.digitaloceanspaces.com/blog-yearly/2023/2023-09-11-tailwind-flex/social-2.png
 hide_table_of_contents: false
+last_update: 2024-08-20
 ---
 
 **This article was last updated on August 19, 2024, to add sections on Flexbox Accessibility Considerations and Best Practices for Performance Optimization.**

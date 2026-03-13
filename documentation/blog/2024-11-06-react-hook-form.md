@@ -7,6 +7,7 @@ category: "Ecosystem / Integrations"
 tags: [react]
 image: https://refine.ams3.cdn.digitaloceanspaces.com/blog-yearly/2024/2024-03-26-react-hook-form/social.png
 hide_table_of_contents: false
+last_update: 2024-11-07
 ---
 
 **This article was last updated on November 6, 2024 to include optimization techniques for managing large forms with useFieldArray() and strategies for integrating custom input components using the Controller API in React Hook Form.**

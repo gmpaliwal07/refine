@@ -7,6 +7,7 @@ category: "How To Build"
 tags: [react]
 image: https://refine.ams3.cdn.digitaloceanspaces.com/blog-yearly/2023/2023-01-18-airtable-crud-app/social.png
 hide_table_of_contents: false
+last_update: 2025-08-28
 ---
 
 ## Introduction

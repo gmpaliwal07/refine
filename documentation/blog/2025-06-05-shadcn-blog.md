@@ -7,6 +7,7 @@ category: "AI & Innovation"
 tags: [ai, react]
 image: https://refine.ams3.cdn.digitaloceanspaces.com/blog-yearly/2025/2025-06-04-shadcn-ui/shadcn.png
 hide_table_of_contents: false
+last_update: 2026-02-03
 ---
 
 The front-end landscape is characterized by rapid evolution, with new frameworks, tools, and libraries emerging frequently. While many offer incremental improvements, shadcn/ui presents a distinct approach to UI development within the React ecosystem, particularly for those utilizing Next.js and Tailwind CSS. This approach has garnered significant attention for how it alters the developer's relationship with UI components.

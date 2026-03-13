@@ -7,6 +7,7 @@ category: "Ecosystem / Integrations"
 tags: [css, react]
 image: https://refine.ams3.cdn.digitaloceanspaces.com/blog-yearly/2023/2023-12-13-stylex-post/social.png
 hide_table_of_contents: false
+last_update: 2024-09-16
 ---
 
 **This article was last updated on September 16, 2024, to add sections on Advanced Stylex Techniques, Performance Considerations, and Using Custom CSS Variables for Theming.**

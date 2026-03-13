@@ -7,6 +7,7 @@ category: "Tutorials"
 tags: [react]
 image: https://refine.ams3.cdn.digitaloceanspaces.com/blog-yearly/2022/2022-09-29-router-navigate-component/social-3.png
 hide_table_of_contents: false
+last_update: 2024-06-24
 ---
 
 **This article was last updated on Jun 14, 2024, to add performance optimization, testing and additional features for React Router**

@@ -7,6 +7,7 @@ category: "Alternatives"
 tags: [javascript, comparison, backend]
 image: https://refine.ams3.cdn.digitaloceanspaces.com/blog-yearly/2023/2023-06-04-bun-vs-node/social-3.png
 hide_table_of_contents: false
+last_update: 2026-02-03
 ---
 
 **This article was last updated on August 12, 2024 to add sections for Cross-Platform Support and Comparison with Other Runtimes (e.g., Deno).**

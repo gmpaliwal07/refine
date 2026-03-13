@@ -7,6 +7,7 @@ category: "How To Build"
 tags: [supabase, react]
 image: https://refine.ams3.cdn.digitaloceanspaces.com/website/static/img/placeholder.png
 hide_table_of_contents: false
+last_update: 2022-09-15
 ---
 
 :::caution

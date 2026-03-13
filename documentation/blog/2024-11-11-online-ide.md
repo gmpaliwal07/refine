@@ -7,6 +7,7 @@ category: "Alternatives"
 tags: [comparison, dev-tools]
 image: https://refine.ams3.cdn.digitaloceanspaces.com/blog-yearly/2022/2022-11-01-online-ide/social.png
 hide_table_of_contents: false
+last_update: 2024-11-11
 ---
 
 **This article was last updated on November 11, 2024 to include best practices for collaboration and security in cloud-based development environments.**

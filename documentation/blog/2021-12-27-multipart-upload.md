@@ -7,6 +7,7 @@ category: "Ecosystem / Integrations"
 tags: [backend]
 image: https://refine.ams3.cdn.digitaloceanspaces.com/website/static/img/placeholder.png
 hide_table_of_contents: false
+last_update: 2022-10-19
 ---
 
 In this guide, we will look at how we can upload a file from HTML form data to a server with the multipart-upload method. Multipart-Upload is commonly used method for sending files or data to a server.

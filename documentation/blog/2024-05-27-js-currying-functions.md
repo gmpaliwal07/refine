@@ -7,6 +7,7 @@ category: "Tutorials"
 tags: [javascript]
 image: https://refine.ams3.cdn.digitaloceanspaces.com/blog-yearly/2022/2022-08-28-js-currying-functions/social-2.png
 hide_table_of_contents: false
+last_update: 2024-05-28
 ---
 
 **_This article was last updated on May 27, 2024 to add new sections on advanced usage, explanations and performance consideration on JavaScript Currying_**

@@ -7,6 +7,7 @@ category: "Tutorials"
 tags: [react]
 image: https://refine.ams3.cdn.digitaloceanspaces.com/blog-yearly/2023/2023-10-12-react-createportal/social-2.png
 hide_table_of_contents: false
+last_update: 2024-09-05
 ---
 
 **This article was last updated on August 21, 2024, to add sections on Best Practices for Using Portals and Testing Portals.**

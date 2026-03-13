@@ -8,6 +8,7 @@ tags: [admin-panel, supabase, backend]
 image: https://refine.ams3.cdn.digitaloceanspaces.com/blog-yearly/2025/2025-11-12-admin-panel-in-5-minutes/supabase-ai-big.png
 hide_table_of_contents: false
 is_featured: true
+last_update: 2026-02-02
 ---
 
 Admin panels are a must for a lot of businesses and teams. From small groups to larger organizations, being able to see all the information at a glance is incredibly helpful. The issue is how long it takes. You might have a lot of resources to wire up, dozens of pages to create and stitch together, and even if you’re using Refine, it can still take a while.

@@ -7,6 +7,7 @@ category: "Alternatives"
 tags: [css, comparison]
 image: https://refine.ams3.cdn.digitaloceanspaces.com/blog-yearly/2022/2022-08-30-flex-vs-grid/social-2.png
 hide_table_of_contents: false
+last_update: 2024-06-14
 ---
 
 **This article was last updated on Jun 13, 2024, to add new examples and use cases for CSS Grid and Flexbox**

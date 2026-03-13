@@ -7,6 +7,7 @@ category: "Ecosystem / Integrations"
 tags: [react]
 image: https://refine.ams3.cdn.digitaloceanspaces.com/blog-yearly/2022/2022-12-23-dynamic-hook-form/social.png
 hide_table_of_contents: false
+last_update: 2023-02-06
 ---
 
 :::caution

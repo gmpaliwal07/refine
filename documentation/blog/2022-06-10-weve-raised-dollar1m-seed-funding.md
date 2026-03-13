@@ -6,6 +6,7 @@ authors: necati
 category: "Announcement"
 tags: []
 hide_table_of_contents: false
+last_update: 2022-12-14
 ---
 
 We are very excited to announce that Refine has raised $1M in our first round led by [500 Istanbul](https://istanbul.500.co/).

@@ -7,6 +7,7 @@ category: "Engineering"
 tags: [git]
 image: https://refine.ams3.cdn.digitaloceanspaces.com/blog-yearly/2022/2022-11-27-git-delete/social-2.png
 hide_table_of_contents: false
+last_update: 2025-09-26
 ---
 
 **This article was last updated on September 26, 2025 to include branch protection policies and team best practices for safe deletion.**

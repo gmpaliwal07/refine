@@ -7,6 +7,7 @@ category: "Tutorials"
 tags: [nextjs, backend]
 image: https://refine.ams3.cdn.digitaloceanspaces.com/blog-yearly/2022/2022-10-05-next-api-routes/social-2.png
 hide_table_of_contents: false
+last_update: 2024-07-03
 ---
 
 **This article was last updated on July 03, 2024, to add sections for Middleware in API Routes, Testing API Routes, and Securing API Routes.**

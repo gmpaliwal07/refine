@@ -7,6 +7,7 @@ category: "How To Build"
 tags: [react, admin-panel, tailwind]
 image: https://refine.ams3.cdn.digitaloceanspaces.com/blog-yearly/2023/2023-09-06-daisy-ui-panel/daisyui.jpg
 hide_table_of_contents: false
+last_update: 2026-02-06
 ---
 
 ## Introduction

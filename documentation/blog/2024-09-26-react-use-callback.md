@@ -7,6 +7,7 @@ category: "Tutorials"
 tags: [react]
 image: https://refine.ams3.cdn.digitaloceanspaces.com/blog-yearly/2022/2022-09-20-react-use-callback/social-2.png
 hide_table_of_contents: false
+last_update: 2024-09-26
 ---
 
 **_This article was last updated on January 25, 2024 to include comparisons between useCallback and useMeme and how to use useCallback with other hooks._**

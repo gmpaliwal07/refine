@@ -7,6 +7,7 @@ category: "AI & Innovation"
 tags: [ai, tech-industry]
 image: https://refine.ams3.cdn.digitaloceanspaces.com/blog-yearly/2025/2025-06-02-purpose-built-ai-agents/purpose-built-ai-agents-1.png
 hide_table_of_contents: false
+last_update: 2026-03-02
 ---
 
 # Introduction

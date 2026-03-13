@@ -7,6 +7,7 @@ category: "Announcement"
 tags: []
 image: https://refine.ams3.cdn.digitaloceanspaces.com/hackathon-2/hackathon_cover.png
 hide_table_of_contents: false
+last_update: 2023-08-05
 ---
 
 ## 🏆 Hackathon Winners

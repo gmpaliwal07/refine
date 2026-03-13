@@ -7,6 +7,7 @@ category: "Alternatives"
 tags: [admin-panel, comparison]
 image: https://refine.ams3.cdn.digitaloceanspaces.com/blog-yearly/2023/2023-12-29-admin-panel-frameworks/social.png
 hide_table_of_contents: false
+last_update: 2024-09-19
 ---
 
 **This article was last updated on September 18, 2024, to add sections on Accessibility Features, Performance Optimization, and SEO Considerations for Admin Panels and Dashboards.**

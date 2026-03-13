@@ -7,6 +7,7 @@ category: "Engineering"
 tags: [react]
 image: https://refine.ams3.cdn.digitaloceanspaces.com/blog-yearly/2023/2023-10-17-react-patterns/social-2.png
 hide_table_of_contents: false
+last_update: 2025-07-28
 ---
 
 **This article was last updated on July 23, 2025, to add a section on React Server Components and their impact on data fetching patterns.**

@@ -7,6 +7,7 @@ category: "Tutorials"
 tags: [react]
 image: https://refine.ams3.cdn.digitaloceanspaces.com/blog-yearly/2023/2023-11-23-react-virtual-dom/social.webp
 hide_table_of_contents: false
+last_update: 2024-09-12
 ---
 
 **This article was last updated on September 11, 2024, to add sections on Impact of Virtual DOM on Rendering Performance and Common Pitfalls with the Virtual DOM**

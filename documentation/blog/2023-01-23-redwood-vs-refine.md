@@ -7,6 +7,7 @@ category: "Alternatives"
 tags: [comparison]
 image: https://refine.ams3.cdn.digitaloceanspaces.com/blog-yearly/2023/2023-01-23-redwood-vs-refine/social.png
 hide_table_of_contents: false
+last_update: 2023-07-27
 ---
 
 Modern full-stack applications are often based on data components like admin panels, dashboards, and internal tools. It may take a lot of time and involve repetitive work to create them from scratch each time.

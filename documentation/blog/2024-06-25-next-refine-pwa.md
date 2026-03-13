@@ -7,6 +7,7 @@ category: "How To Build"
 tags: [nextjs]
 image: https://refine.ams3.cdn.digitaloceanspaces.com/blog-yearly/2022/2022-09-11-next-refine-pwa/social-2.png
 hide_table_of_contents: false
+last_update: 2024-06-25
 ---
 
 **This article was last updated on Jun 25, 2024, to add new SEO considerations, accessibility, and configuring Service Worker for Next PWA apps**

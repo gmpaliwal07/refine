@@ -7,6 +7,7 @@ category: "How To Build"
 tags: [react, admin-panel]
 image: https://refine.ams3.cdn.digitaloceanspaces.com/blog-yearly/2023/2023-07-25-refine-primereact/cover.jpg
 hide_table_of_contents: false
+last_update: 2026-02-06
 ---
 
 import Tabs from '@theme/Tabs';

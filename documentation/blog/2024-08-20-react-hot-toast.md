@@ -7,6 +7,7 @@ category: "Ecosystem / Integrations"
 tags: [react]
 image: https://refine.ams3.cdn.digitaloceanspaces.com/blog-yearly/2023/2023-10-06-react-hot-toast/social.png
 hide_table_of_contents: false
+last_update: 2024-08-20
 ---
 
 **This article was last updated on August 20, 2024, to add sections on Accessibility Considerations and Testing Toast Notifications.**

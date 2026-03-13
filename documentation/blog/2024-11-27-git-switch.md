@@ -7,6 +7,7 @@ category: "Alternatives"
 tags: [git]
 image: https://refine.ams3.cdn.digitaloceanspaces.com/blog-yearly/2022/2022-12-20-git-switch/social-2.png
 hide_table_of_contents: false
+last_update: 2025-07-04
 ---
 
 **This article was last updated on July 2, 2025, to improve the explanations of 'git switch' and align with current best practices.**

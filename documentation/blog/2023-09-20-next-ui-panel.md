@@ -7,6 +7,7 @@ category: "How To Build"
 tags: [react, admin-panel, nextjs]
 image: https://refine.ams3.cdn.digitaloceanspaces.com/blog-yearly/2023/2023-09-20-next-ui-panel/social.jpg
 hide_table_of_contents: false
+last_update: 2026-02-06
 ---
 
 It's hard to build data-intensive front-end applications such as dashboards and admin panels from the ground up without feature-rich and niche frameworks such as [Refine](https://github.com/refinedev/refine) and [NextUI](https://nextui.org/).

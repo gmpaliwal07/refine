@@ -7,6 +7,7 @@ category: "Ecosystem / Integrations"
 tags: [react]
 image: https://refine.ams3.cdn.digitaloceanspaces.com/blog-yearly/2023/2023-06-01-react-toastify/social-2.png
 hide_table_of_contents: false
+last_update: 2024-08-09
 ---
 
 **This article was last updated on August 09, 2024 to add sections for Performance Considerations with Notifications.**

@@ -7,6 +7,7 @@ category: "Ecosystem / Integrations"
 tags: [docker]
 image: https://refine.ams3.cdn.digitaloceanspaces.com/blog-yearly/2023/2023-06-24-docker-run-command/social.png
 hide_table_of_contents: false
+last_update: 2023-07-11
 ---
 
 ## What is the Docker run command?

@@ -7,6 +7,7 @@ category: "Tutorials"
 tags: [typescript]
 image: https://refine.ams3.cdn.digitaloceanspaces.com/blog-yearly/2022/2022-09-30-typescript-pick/social-2.png
 hide_table_of_contents: false
+last_update: 2024-12-17
 ---
 
 **This article was last updated on November 17, 2024, to include a clear introduction to TypeScript Pick and its practical use cases.**

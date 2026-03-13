@@ -7,6 +7,7 @@ category: "Ecosystem / Integrations"
 tags: [tailwind]
 image: https://refine.ams3.cdn.digitaloceanspaces.com/blog-yearly/2023/2023-09-18-heroicons/social.png
 hide_table_of_contents: false
+last_update: 2024-08-20
 ---
 
 **This article was last updated on August 19, 2024, to add sections on Customizing Heroicons and Optimizing Icon Performance.**

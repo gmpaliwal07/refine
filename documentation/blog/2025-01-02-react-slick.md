@@ -7,6 +7,7 @@ category: "Ecosystem / Integrations"
 tags: [react]
 image: https://refine.ams3.cdn.digitaloceanspaces.com/blog-yearly/2023/2023-10-29-react-slick/social-2.png
 hide_table_of_contents: false
+last_update: 2025-01-02
 ---
 
 **This article was last updated on January 2, 2025, to address common queries about React Slick and a dedicated section for Common Mistakes When Working with React Slick to improve usability and clarity.**

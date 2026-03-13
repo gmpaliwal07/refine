@@ -7,6 +7,7 @@ category: "Ecosystem / Integrations"
 tags: [react, css]
 image: https://refine.ams3.cdn.digitaloceanspaces.com/blog-yearly/2024/2024-06-20-framer-motion/social.png
 hide_table_of_contents: false
+last_update: 2025-09-08
 ---
 
 **Update (September 2025): This article has been updated to include new features introduced in Framer Motion v11, as well as improvements to scroll-based and velocity-driven animations.**

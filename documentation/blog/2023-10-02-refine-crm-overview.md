@@ -7,6 +7,7 @@ category: "How To Build"
 tags: [react, admin-panel]
 image: https://refine.ams3.cdn.digitaloceanspaces.com/blog-yearly/2023/2023-10-02-refine-crm-overview/social.jpg
 hide_table_of_contents: false
+last_update: 2026-02-05
 ---
 
 ![Refine CRM application overview showing the main interface](https://refine.ams3.cdn.digitaloceanspaces.com/CRM-app/crm-general.avif)

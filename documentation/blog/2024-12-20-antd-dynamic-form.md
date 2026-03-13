@@ -7,6 +7,7 @@ category: "Ecosystem / Integrations"
 tags: [react, ant-design]
 image: https://refine.ams3.cdn.digitaloceanspaces.com/blog-yearly/2022/2022-11-17-antd-dynamic-form/social-2.png
 hide_table_of_contents: false
+last_update: 2024-12-24
 ---
 
 **This article was last updated on December 20, 2024, to include advanced styling techniques for Ant Design dynamic forms and integration with form libraries like Formik and React Hook Form. Additionally, the introduction has been updated for clarity.**

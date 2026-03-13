@@ -7,6 +7,7 @@ category: "Engineering"
 tags: [docker]
 image: https://refine.ams3.cdn.digitaloceanspaces.com/blog-yearly/2022/2022-12-28-docker-copy/social.png
 hide_table_of_contents: false
+last_update: 2023-01-04
 ---
 
 ## Introduction
